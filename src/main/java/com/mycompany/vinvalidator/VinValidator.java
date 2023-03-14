@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author KHYLE
+ * @author kmoran905
  */
 public class VinValidator {
 
